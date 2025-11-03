@@ -118,7 +118,7 @@ def train(agents, hp, seed=SEED):
             return agents[i].learn()
 
     # Begin training loop 
-    for e in range(hp.training_episodes // hp.N):
+    for e in tqdm(range(hp.training_episodes // hp.N)):
         e *= hp.N
 
         # Generate N episodes in parallel 
