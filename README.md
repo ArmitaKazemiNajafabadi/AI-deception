@@ -1,4 +1,4 @@
-# KEEP: A GNN-based PPO Model for MARL
+# Doordinated Deception over "KEEP: A GNN-based PPO Model for MARL" [ReadMe Not Updated]
 
 This repository contains the code we submitted to the [TTCP CAGE Challenge-4](https://github.com/cage-challenge/cage-challenge-4) autonomous cyber defense MARL contest. Our agent placed 5th on the final leader board with a score of -193.68. Here we will document how to run our code, and describe our approach.
 
